@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_title.unity
+    guid: 3e72b85e484d7b84b8ff1551a6a40622
+  - enabled: 1
+    path: Assets/Scenes/02_Day1_Story.unity
+    guid: 2ab8e018c8ced3042bce95843acf8c58
+  - enabled: 1
+    path: Assets/Scenes/03_Quiz_L1.unity
+    guid: 51953abe16e38db43910731212b65bfc
+  - enabled: 1
+    path: Assets/Scenes/04_Result.unity
+    guid: 8e2054bf29ec8df4e813db805aa466dd
+  - enabled: 1
+    path: Assets/Scenes/05_crisis_almost_fired.unity
+    guid: 6ae9fb4039aff4f47b194ce0cfb94635
+  - enabled: 1
+    path: Assets/Scenes/06_JiWoo_meet.unity
+    guid: 83ed906521aca08449f4bd28adf64c7a
+  - enabled: 1
+    path: Assets/Scenes/07_Quiz_L2.unity
+    guid: 41115091033d6274b9e673bf3c42d385
+  - enabled: 1
+    path: Assets/Scenes/08_Crisis_laptop.unity
+    guid: d75f746caa75f6c4fa2b82286becd702
+  - enabled: 1
+    path: Assets/Scenes/09_JiWoo_date.unity
+    guid: 147fe74414f466b4e8e9c2bf6f36c39d
+  - enabled: 1
+    path: Assets/Scenes/10_quiz_l3.unity
+    guid: ec63ca8b5083b404fabc994fb17898a4
+  - enabled: 1
+    path: Assets/Scenes/11_JiWoo_breakup.unity
+    guid: c20555d3558e226459453c4fe7e582c1
+  - enabled: 1
+    path: Assets/Scenes/12_Quiz_L4.unity
+    guid: e75822f015585774ab59c1a89b70654d
+  - enabled: 1
+    path: Assets/Scenes/13_Quiz_L5.unity
+    guid: 836cabace7e72e049a086f04274c8785
+  - enabled: 1
+    path: Assets/Scenes/14_Ending.unity
+    guid: 56cdc66f5a4f8de4a989a2372cb24a41
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
